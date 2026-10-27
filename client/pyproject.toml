@@ -1,3 +1,3 @@
 [project]
 name = "ayon-traypublisher"
-version = ["dynamic"]
+dynamic = ["version"]
