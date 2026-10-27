@@ -1,5 +1,3 @@
 [project]
-name = "traypublisher"
-version = "0.0.0-dev"
-description = "TrayPublisher"
-requires-python = ">=3.10"
+name = "ayon-traypublisher"
+version = ["dynamic"]
